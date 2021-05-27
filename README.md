@@ -9,4 +9,4 @@ These papers are:
 1. Jaynes, E. T., 1963, [`Information Theory and Statistical Mechanics,'](./information-theory-and-statistical-mechanics.pdf) in Statistical Physics, K. Ford (ed.), Benjamin, New York, p. 181
 2. Jaynes, E. T., 1965, [`Gibbs vs Boltzmann Entropies,'](./gibbs-vs-boltzmann-entropies.pdf) Am. J. Phys., 33, 391
 
-
+It seems I'm not the only one with the "hobby" of turning Jaynes papers into LaTeX ... here's a few papers done by Andrew Fowlie: <https://andrewfowlie.github.io/resource/jaynes/>
